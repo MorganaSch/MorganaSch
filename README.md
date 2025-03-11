@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-   💡🚀 Bem-vindo ao meu GitHub! 🌍✨ Aqui tem projetos 🛠️, aprendizados 📚 e experimentos 🔬 sobre tecnologia 💻, programação 🖥️ e inovação 🚀🔥!
+   💡🚀 Bem-vindo ao meu GitHub! 🌍✨ Aqui tem projetos 🛠️, aprendizados, 🔬 sobre tecnologia 💻, programação 🖥️ e inovação 🚀🔥!
   </h1>
   
      
@@ -38,4 +38,22 @@
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
+</div>
+<div>
+  <p>🚀 <strong>Professora de Programação e Robótica | Entusiasta de Tecnologia</strong></p>
+<p>🎮 <strong>Apaixonada por Inovações, Desafios e Criatividade!</strong></p>
+
+<p>💡 <strong>Transformando o aprendizado em experiências tecnológicas incríveis!</strong></p>
+<p>✨ Sou uma educadora dedicada a inspirar mentes curiosas e a explorar o fascinante mundo da programação e da robótica. Acredito no poder da tecnologia para transformar vidas e estou sempre em busca de novos desafios para tornar o aprendizado mais dinâmico e divertido!</p>
+
+<h3>🔧 Especialidades:</h3>
+<ul>
+  <li>Programação (Roblox Studio, JavaScript, Python)</li>
+  <li>Robótica Educacional</li>
+  <li>Ensino Criativo e Interativo</li>
+  <li>Desenvolvimento de Projetos Tecnológicos</li>
+</ul>
+
+<h3>🌍 Objetivo:</h3>
+<p>Empoderar jovens e adultos a dominar o universo da programação e da robótica, criando soluções inovadoras e impactantes para o futuro.</p>
 </div>
