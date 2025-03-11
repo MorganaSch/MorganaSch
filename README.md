@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou a 
+   😃️🎮💻 
     <a href="https://www.linkedin.com/in/morgana-schenkel-junqueira-4b23b912b/">Morgana Schenkel 😃️🎮💻</a>
   </h1>
   
