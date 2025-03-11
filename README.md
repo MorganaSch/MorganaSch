@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">👩‍💻 Morgana Schenkel Junqueira</h1>
   <h2 align="center">
-    💡🚀 Bem-vindo ao meu GitHub! 🌍✨ Aqui tem projetos 🛠️, aprendizados, 🔬 sobre tecnologia 💻, programação 🖥️ e inovação 🚀🔥!
+    💡🚀 Bem-vindo ao meu GitHub! 🌍✨
   </h2>
        
 </div>
