@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-   💡 Bem-vindo ao meu GitHub! Aqui você encontra projetos, aprendizados e experimentos sobre tecnologia, programação e inovação. 🚀
+   💡🚀 Bem-vindo ao meu GitHub! 🌍✨ Aqui tem projetos 🛠️, aprendizados 📚 e experimentos 🔬 sobre tecnologia 💻, programação 🖥️ e inovação 🚀🔥!
   </h1>
   
      
