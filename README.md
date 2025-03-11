@@ -1,9 +1,8 @@
 <div>
-  
-  <h1 align="center">
-    <h1>👩‍💻 Morgana Schenkel Junqueira</h1>
-   💡🚀 Bem-vindo ao meu GitHub! 🌍✨ Aqui tem projetos 🛠️, aprendizados, 🔬 sobre tecnologia 💻, programação 🖥️ e inovação 🚀🔥!
-  </h1>
+  <h1 align="center">👩‍💻 Morgana Schenkel Junqueira</h1>
+  <h2 align="center">
+    💡🚀 Bem-vindo ao meu GitHub! 🌍✨ Aqui tem projetos 🛠️, aprendizados, 🔬 sobre tecnologia 💻, programação 🖥️ e inovação 🚀🔥!
+  </h2>
        
 </div>
 
@@ -40,7 +39,7 @@
   
 </div>
 <div>
-<h1>🚀 <strong>Professora de Programação e Robótica | Entusiasta de Tecnologia</strong></h1>
+<h2>🚀 <strong>Professora de Programação e Robótica | Entusiasta de Tecnologia</strong></h2>
 <p>🎮 <strong>Apaixonada por Inovações, Desafios e Criatividade!</strong></p>
 
 <p>💡 <strong>Transformando o aprendizado em experiências tecnológicas incríveis!</strong></p>
