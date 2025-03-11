@@ -1,6 +1,7 @@
 <div>
   
   <h1 align="center">
+    <h2>👩‍💻 Morgana Schenkel Junqueira</h2>
    💡🚀 Bem-vindo ao meu GitHub! 🌍✨ Aqui tem projetos 🛠️, aprendizados, 🔬 sobre tecnologia 💻, programação 🖥️ e inovação 🚀🔥!
   </h1>
   
@@ -40,7 +41,7 @@
   
 </div>
 <div>
-  <p>🚀 <strong>Professora de Programação e Robótica | Entusiasta de Tecnologia</strong></p>
+<h1>🚀 <strong>Professora de Programação e Robótica | Entusiasta de Tecnologia</strong></h1>
 <p>🎮 <strong>Apaixonada por Inovações, Desafios e Criatividade!</strong></p>
 
 <p>💡 <strong>Transformando o aprendizado em experiências tecnológicas incríveis!</strong></p>
@@ -50,6 +51,8 @@
 <ul>
   <li>Programação (Roblox Studio, JavaScript, Python)</li>
   <li>Robótica Educacional</li>
+  <li>Gamificação e Objetivos Educacionais</li>
+  <li>Metodologias Ativas de Aprendizagem</li>
   <li>Ensino Criativo e Interativo</li>
   <li>Desenvolvimento de Projetos Tecnológicos</li>
 </ul>
