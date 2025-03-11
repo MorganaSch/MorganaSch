@@ -39,7 +39,7 @@
   
 </div>
 <div>
-<h2>🚀 <strong>Professora de Programação e Robótica | Entusiasta de Tecnologia</strong></h2>
+<h2 align="center">🚀 <strong>Professora de Programação e Robótica | Entusiasta de Tecnologia</strong></h2>
 <p>🎮 <strong>Apaixonada por Inovações, Desafios e Criatividade!</strong></p>
 
 <p>💡 <strong>Transformando o aprendizado em experiências tecnológicas incríveis!</strong></p>
