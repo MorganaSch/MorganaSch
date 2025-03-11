@@ -1,11 +1,10 @@
 <div>
   
   <h1 align="center">
-    <h2>👩‍💻 Morgana Schenkel Junqueira</h2>
+    <h1>👩‍💻 Morgana Schenkel Junqueira</h1>
    💡🚀 Bem-vindo ao meu GitHub! 🌍✨ Aqui tem projetos 🛠️, aprendizados, 🔬 sobre tecnologia 💻, programação 🖥️ e inovação 🚀🔥!
   </h1>
-  
-     
+       
 </div>
 
 <div align="center">
