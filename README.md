@@ -47,12 +47,12 @@
 
 <h3>🔧 Especialidades:</h3>
 <ul>
-  <li>Programação (Roblox Studio, JavaScript, Python)</li>
-  <li>Robótica Educacional</li>
-  <li>Gamificação e Objetivos Educacionais</li>
-  <li>Metodologias Ativas de Aprendizagem</li>
-  <li>Ensino Criativo e Interativo</li>
-  <li>Desenvolvimento de Projetos Tecnológicos</li>
+  <li>🖥️ Programação (Roblox Studio, JavaScript, Python)</li>
+  <li>🤖 Robótica Educacional</li>
+  <li>🎮 Gamificação e Objetivos Educacionais</li>
+  <li>💡 Metodologias Ativas de Aprendizagem</li>
+  <li>🎨 Ensino Criativo e Interativo</li>
+  <li>🔧 Desenvolvimento de Projetos Tecnológicos</li>
 </ul>
 
 <h3>🌍 Objetivo:</h3>
