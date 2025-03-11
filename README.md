@@ -1,8 +1,7 @@
 <div>
   
   <h1 align="center">
-   😃️🎮💻 
-    <a href="https://www.linkedin.com/in/morgana-schenkel-junqueira-4b23b912b/">Morgana Schenkel 😃️🎮💻</a>
+   💡 Bem-vindo ao meu GitHub! Aqui você encontra projetos, aprendizados e experimentos sobre tecnologia, programação e inovação. 🚀
   </h1>
   
      
