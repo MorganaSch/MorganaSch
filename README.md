@@ -40,7 +40,7 @@
 </div>
 <div>
 <h2 align="center">🚀 <strong>Professora de Programação e Robótica | Entusiasta de Tecnologia</strong></h2>
-<p>🎮 <strong>Apaixonada por Inovações, Desafios e Criatividade!</strong></p>
+<h2 align="center">🎮 <strong>Apaixonada por Inovações, Desafios e Criatividade!</strong></h2>
 
 <p>💡 <strong>Transformando o aprendizado em experiências tecnológicas incríveis!</strong></p>
 <p>✨ Sou uma educadora dedicada a inspirar mentes curiosas e a explorar o fascinante mundo da programação e da robótica. Acredito no poder da tecnologia para transformar vidas e estou sempre em busca de novos desafios para tornar o aprendizado mais dinâmico e divertido!</p>
