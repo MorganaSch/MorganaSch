@@ -1,15 +1,11 @@
 <div>
-  <h1 align="center">👩‍💻 Morgana Schenkel Junqueira</h1>
+    <h1 align="center">👩‍💻 Morgana Schenkel Junqueira</h1>
   <p align="center">
-  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Data analysis gif" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c3b70b64-5b62-4993-8cd5-883a0952f254" alt="Data analysis gif" width="400"/>
 </p>
-</div>
   <h2 align="center">
     💡🚀 Bem-vindo ao meu GitHub! 🌍✨
   </h2>
-       
-</div>
-
 <div align="center">
   <a href="https://github.com/MorganaSch">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MorganaSch&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
