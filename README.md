@@ -1,5 +1,9 @@
 <div>
   <h1 align="center">👩‍💻 Morgana Schenkel Junqueira</h1>
+  <p align="center">
+  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" alt="Data analysis gif" width="400"/>
+</p>
+</div>
   <h2 align="center">
     💡🚀 Bem-vindo ao meu GitHub! 🌍✨
   </h2>
